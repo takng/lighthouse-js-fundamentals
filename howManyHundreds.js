@@ -1,6 +1,6 @@
 function howManyHundreds (num)
 {
-	return parseInt(num/100);
+  return parseInt (num/100);
 }
 
 console.log(howManyHundreds(1010));
